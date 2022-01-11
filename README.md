@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JaeYeon%20Won&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+<style> .centered { width: 400px; position: absolute; left: 50%; margin-left: -200px; } </style> <div class="centered">absolute 가운데 정렬</div>
+
+출처: https://webdir.tistory.com/31 [WEBDIR]
+
 <b>Jaeyeon Won</b>
-<style> div { position:relative; } #cm { position:absolute; } .hc { width:200px; left:0; right:0; margin-left:auto; margin-right:auto; } /* 가로 중앙 정렬 */ .vc { height:40px; top: 0; bottom:0; margin-top:auto; margin-bottom:auto; } /* 세로 중앙 정렬 */ </style> <div> <p id="cm" class="hc vc">가로 중앙 정렬 + 세로 중앙 정렬</div> </div>
 
 출처: https://webdir.tistory.com/31 [WEBDIR]
 

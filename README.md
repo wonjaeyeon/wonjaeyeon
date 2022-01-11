@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=JaeYeon%20Won&animation=fadeIn&fontColor=ffffff&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JaeYeon%20Won&animation=fadeIn&fontColor=ffffff&fontSize=90" />
 <b>Jaeyeon Won</b>
 <Developer,Designer>
 

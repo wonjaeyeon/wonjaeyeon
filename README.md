@@ -1,11 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JaeYeon%20Won&animation=fadeIn&fontColor=ffffff&fontSize=70" />
-<style> .centered { width: 400px; position: absolute; left: 50%; margin-left: -200px; } </style> <div class="centered">absolute 가운데 정렬</div>
-
-출처: https://webdir.tistory.com/31 [WEBDIR]
 
 <b>Jaeyeon Won</b>
-
-출처: https://webdir.tistory.com/31 [WEBDIR]
 
 Making Programs and Designs Like Artwork
 

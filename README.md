@@ -2,6 +2,7 @@ Jaeyeon Won
 <Developer,Designer>
 
 
+![image](https://user-images.githubusercontent.com/44885604/148986642-7e332e47-b125-4e0e-b946-61a16a048b27.png)
 
 <!--
 **wonjaeyeon/wonjaeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

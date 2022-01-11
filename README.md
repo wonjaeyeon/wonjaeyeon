@@ -22,7 +22,7 @@ Design Tool I used
 Developing Environment I used
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![JaeYeon Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeYeon%20Won&theme=dark&show_icons=true)
 
 
 <!--

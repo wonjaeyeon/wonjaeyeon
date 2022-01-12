@@ -2,15 +2,13 @@
 <div align= center style="font-weight: 200;">
 
 <h3>Jaeyeon Won</h3>
-
- <font size="30">asdf</font>
  
 <h2>Making Programs and Designs Like Artwork</h2>
 
 <h3><b>You can watch my Artwork in here</b></h3>
 
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<a= href="https://www.notion.so/21a2f080d1134c729476f7d0b0f36f89">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>&nbsp
 
 <h3><b>Programming Language I used</b></h3>
 

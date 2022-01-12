@@ -18,8 +18,10 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2017. 3 ~ 2023. 2 | Department of Global Media | **Soongsil University** |
 | **Research activities** | 2019. 6 ~ 2019. 10 | Undergraduate Research Students | **Soongsil Univ. MRLab** |
+| **External activities** | 2021. 12 ~ 2022.  | CEO of the "servicer"  Management Solution Application | **With My Development Team** |
 
-### :mailbox_with_mail: Contacts
+ 
+ ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woncow977@gmail.com)](mailto:woncow977@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
  

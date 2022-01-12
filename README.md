@@ -58,7 +58,7 @@
 ![wonjaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjaeyeon&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonjaeyeon&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjaeyeon&layout=compact)](https://github.com/wonjaeyeon/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woncow977](https://solved.ac/woncow977)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woncow977)](https://solved.ac/woncow977)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woncow977)](https://solved.ac/woncow977)
 </div>

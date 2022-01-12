@@ -27,7 +27,7 @@
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/JaeYeon-Won-Profile-21a2f080d1134c729476f7d0b0f36f89)](https://www.notion.so/JaeYeon-Won-Profile-21a2f080d1134c729476f7d0b0f36f89)
 
-<h3><b>Programming Language I used</b></h3>
+### Programming Language I used
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -36,12 +36,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
-<h3><b>Design Tool I used</b></h3>
+### Design Tool I used
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-<h3><b>Developing Environment I used</b></h3>
+### Developing Environment I used
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
@@ -52,6 +52,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjaeyeon&langs_count=8)](https://github.com/wonjaeyeon/github-readme-stats)
  ![wonjaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjaeyeon&show_icons=true&theme=radical)
   </div>
+
+
+
 
 <!--
 **wonjaeyeon/wonjaeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

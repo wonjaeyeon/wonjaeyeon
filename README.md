@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JaeYeon%20Won&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 <div align= center>
-  <class textSize=60>
+
 <b>Jaeyeon Won</b>
-  </class>
+
 Making Programs and Designs Like Artwork
 
 <b>You can watch my Artwork in here</b>
@@ -30,7 +30,7 @@ Making Programs and Designs Like Artwork
 
 ![wonjaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjaeyeon&theme=dark&show_icons=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonjaeyeon&theme=vue)
-  
+[![wonjaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username={wonjaeyeon}&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 <!--

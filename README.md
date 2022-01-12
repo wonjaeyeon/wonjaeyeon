@@ -16,7 +16,7 @@
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Department of Global Media | **Soongsil University** |
+| **:mortar_board: Education** | 2017. 3 ~ 2023. 2 | Department of Global Media | **Soongsil University** |
 | **Research activities** | 2019. 6 ~ 2019. 10 | Undergraduate Research Students | **Soongsil Univ. MRLab** |
 
  

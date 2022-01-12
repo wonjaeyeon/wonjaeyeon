@@ -8,7 +8,7 @@
 <h3><b>You can watch my Artwork in here</b></h3>
 
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
-<a= href="https://www.notion.so/21a2f080d1134c729476f7d0b0f36f89">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>&nbsp
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/JaeYeon-Won-Profile-21a2f080d1134c729476f7d0b0f36f89)](https://www.notion.so/JaeYeon-Won-Profile-21a2f080d1134c729476f7d0b0f36f89)
 
 <h3><b>Programming Language I used</b></h3>
 

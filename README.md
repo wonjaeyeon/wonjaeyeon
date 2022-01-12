@@ -6,7 +6,7 @@
 ### Making Programs and Designs Like Artwork
 
 ### :bulb: Current Interests
-- Computer Vision
+- Mobile Application Development
 - Semi Supervised Learning for Classification, Detection, Segmentation
 - Generative Model
 - Various ideas (If you have any research or project you want to share with me, please contact me!) 

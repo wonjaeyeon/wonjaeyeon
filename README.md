@@ -2,6 +2,13 @@
 <div style="text align:center">
 <b>Jaeyeon Won</b>
 
+<style>
+  #content { height: 100px; line-height: 100px; } 
+</style>
+<div id="content">Content Here</div>
+
+  
+  
 Making Programs and Designs Like Artwork
 
 <b>You can watch my Artwork in here</b>

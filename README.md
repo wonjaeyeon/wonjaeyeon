@@ -29,7 +29,7 @@ Making Programs and Designs Like Artwork
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ![wonjaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjaeyeon&theme=dark&show_icons=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonjaeyeon&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonjaeyeon&theme=vue)
 [![wonjaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjaeyeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 

@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JaeYeon%20Won&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 <div style="text align:center">
-<b>Jaeyeon Won</b></div>
+<b>Jaeyeon Won</b>
 
 Making Programs and Designs Like Artwork
 
@@ -29,6 +29,8 @@ Making Programs and Designs Like Artwork
 
 ![wonjaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjaeyeon&theme=dark&show_icons=true)
 
+  
+  </div>
 
 <!--
 **wonjaeyeon/wonjaeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

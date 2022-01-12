@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JaeYeon%20Won&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 <div align= center style="font-weight: 200;">
 
-## Jaeyeon Won
+### Jaeyeon Won
  
 ### Making Programs and Designs Like Artwork
 

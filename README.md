@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JaeYeon%20Won&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 <div align= center style="font-weight: 200;">
 
-<b>Jaeyeon Won</b>
+<h3>Jaeyeon Won</h3>
 
-Making Programs and Designs Like Artwork
+<h3>Making Programs and Designs Like Artwork</h3>
 
 <b>You can watch my Artwork in here</b>
 

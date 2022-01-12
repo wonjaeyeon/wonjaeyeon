@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JaeYeon%20Won&animation=fadeIn&fontColor=ffffff&fontSize=70" />
-<div align= center>
+<div align= center style="font-weight: bold;">
 
 <b>Jaeyeon Won</b>
 

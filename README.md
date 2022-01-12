@@ -3,7 +3,7 @@
 
 <h3>Jaeyeon Won</h3>
 
-Making Programs and Designs Like Artwork
+<h2>Making Programs and Designs Like Artwork</h2>
 
 <h3><b>You can watch my Artwork in here</b></h3>
 

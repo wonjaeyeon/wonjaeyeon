@@ -16,14 +16,9 @@
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Department of Mathematics, Software | **Soongsil University** |
-| **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil Univ. SE Lab** |
-| **External activities** | 2019. 6 ~ 8 | Global Start-up Challenge (Start-up in Australia) | **EndorFin** |
-| **Research activities** | 2020. 1 ~ 7 | Team leader of Mevia, 6th Open-Lab | **Korea AI Lab** |
-| **:office:Employment** | 2020. 5 ~ 2021. 5 | QA, SW Engineer | **Intel** |
-| **External activities** | 2020. 10 ~ 2021. 1 | Google MachineLearning BootCamp | **Google Developers** |
-| **Research activities** | 2021. 1 ~ 4 | Team leader of IVADL, 8th Open-Lab | **Korea AI Lab** |
-| **:office:Employment** | 2021. 6 ~ | Deeplearning Engineer | **Intel** |
+| **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Department of Global Media | **Soongsil University** |
+| **Research activities** | 2019. 6 ~ 2019. 10 | Undergraduate Research Students | **Soongsil Univ. MRLab** |
+
  
 <h3><b>You can watch my Artwork in here</b></h3>
 

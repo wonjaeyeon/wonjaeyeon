@@ -60,6 +60,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjaeyeon&layout=compact)](https://github.com/wonjaeyeon/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woncow977](https://solved.ac/woncow977)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woncow977)](https://solved.ac/woncow977)
 </div>
 

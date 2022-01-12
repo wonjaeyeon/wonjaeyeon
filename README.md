@@ -19,6 +19,8 @@
 | **:mortar_board: Education** | 2017. 3 ~ 2023. 2 | Department of Global Media | **Soongsil University** |
 | **Research activities** | 2019. 6 ~ 2019. 10 | Undergraduate Research Students | **Soongsil Univ. MRLab** |
 
+### :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:harimkang4422@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/harim.kang)](https://www.facebook.com/harim.kang) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harim-kang-1bb974179)](https://www.linkedin.com/in/harim-kang-1bb974179) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://davinci-ai.tistory.com/)
  
 <h3><b>You can watch my Artwork in here</b></h3>
 

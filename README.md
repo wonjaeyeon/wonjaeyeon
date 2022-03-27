@@ -27,6 +27,7 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white&link=https://woncow977.myportfolio.com)](https://woncow977.myportfolio.com)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/JaeYeon-Won-Profile-21a2f080d1134c729476f7d0b0f36f89)](https://www.notion.so/JaeYeon-Won-Profile-21a2f080d1134c729476f7d0b0f36f89)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@woncow977)](https://velog.io/@woncow977)
 
 ### :books: Programming Language I used
 

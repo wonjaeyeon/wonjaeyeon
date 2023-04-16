@@ -43,6 +43,7 @@
 
 ### 📑: FrameWorks and Library I used
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+ ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
  
 ### :black_nib: Design Tool I used
 

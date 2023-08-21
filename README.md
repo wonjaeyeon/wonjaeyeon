@@ -11,7 +11,9 @@
 
 
 ### :bulb: Current Interests
-- Mobile Application Development
+- Mobile Application Development(Flutter, Android Jetpack Compose)
+- Building Server with Go
+- Building System with Rust(not yet tried)
 - Semi Supervised Learning for Classification, Detection, Segmentation
 - Generative Model
 - Various ideas (If you have any research or project you want to share with me, please contact me!) 

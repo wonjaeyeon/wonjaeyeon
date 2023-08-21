@@ -7,7 +7,8 @@
 
 - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) **Flutter Development**: Expertise in creating fast, beautiful, and natively compiled applications for mobile from a single codebase.
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)**Android App Development**: Proficient in building performance-oriented and user-friendly Android applications.
-- ![Server](<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Serverless</title><path d="M0 17.57h4.248l-1.316 3.974H0zm0-7.557h6.75l-1.316 3.974H0zm0-7.557h9.252L7.936 6.431H0zm13.44 0H24v3.975H12.123zM9.62 13.987l1.317-3.974H24v3.974zM8.436 17.57H24v3.975H7.119Z"/></svg>)**Server & Software Architecture**: Skilled in designing robust, scalable, and efficient system architectures.
+- ![Server](https://img.shields.io/badge/Server-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)**Server & Software Architecture**: Skilled in building and maintaining efficient and scalable server backends.
+- ![Architecture](https://img.shields.io/badge/Software%20Architecture-%23FF6600.svg?style=flat-square&logo=monogram&logoColor=white) **Software Architecture**: Adept at designing robust, modular, and efficient system architectures.
 
 
 ### :bulb: Current Interests

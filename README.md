@@ -7,7 +7,7 @@
 
 - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) **Flutter Development**: Expertise in creating fast, beautiful, and natively compiled applications for mobile from a single codebase.
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)**Android App Development**: Proficient in building performance-oriented and user-friendly Android applications.
-- ![Server](https://img.shields.io/badge/Server-%2300599C.svg?style=flat-square&logo=monogram&logoColor=white)**Server & Software Architecture**: Skilled in building and maintaining efficient and scalable server backends.
+- ![Server](https://img.shields.io/badge/Server-%2300599C.svg?style=flat-square&logo=monogram&logoColor=white)**Server**: Skilled in building and maintaining efficient and scalable server backends.
 - ![Architecture](https://img.shields.io/badge/Software%20Architecture-%23FF6600.svg?style=flat-square&logo=monogram&logoColor=white) **Software Architecture**: Adept at designing robust, modular, and efficient system architectures.
 
 

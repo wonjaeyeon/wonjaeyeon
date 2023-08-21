@@ -23,8 +23,8 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2017. 3 ~ 2023. 2 | Department of Global Media | **Soongsil University** |
 | **Research activities** | 2019. 6 ~ 2019. 10 | Undergraduate Research Students | **Soongsil Univ. MRLab** |
-| **External activities** | 2021. 12 ~ 2022.  | CEO of the "servicer"  Management Solution Application | **With My Development Team** |
-| **Occupation** | 2021. 12 ~ 2022.  | Software Engineer | **Teclast Korea** |
+| **External activities** | 2021. 12 ~ 2023.4  | CEO of the "servicer"  Management Solution Application | **With My Development Team** |
+| **Occupation** | 2023. 04 ~ 2023.  | Software Engineer | **Teclast Korea** |
  
  ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woncow977@gmail.com)](mailto:woncow977@gmail.com)

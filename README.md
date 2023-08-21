@@ -3,6 +3,13 @@
  
 ### Making Application and Software Architecture Programming
 
+### 🔧 Professional Expertise
+
+- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) **Flutter Development**: Expertise in creating fast, beautiful, and natively compiled applications for mobile from a single codebase.
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)**Android App Development**: Proficient in building performance-oriented and user-friendly Android applications.
+- ![Server](https://img.shields.io/badge/Server-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)**Server & Software Architecture**: Skilled in designing robust, scalable, and efficient system architectures.
+
+
 ### :bulb: Current Interests
 - Mobile Application Development
 - Semi Supervised Learning for Classification, Detection, Segmentation

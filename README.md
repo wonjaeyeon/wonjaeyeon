@@ -28,7 +28,7 @@
 | **Research activities** | 2019. 6 ~ 2019. 10 | Undergraduate Research Students | **Soongsil Univ. MRLab** |
 | **External activities** | 2021. 12 ~ 2023.4  | CEO of the "servicer"  Management Solution Application | **With My Development Team** |
 | **Occupation** | 2023. 04 ~ 2023.  | Software Engineer | **Teclast Korea** |
-| **External activities** | 2023. 09 ~ 2023.  | Software Engineer | **Peak-s-Team** |
+| **External activities** | 2023. 09 ~ 2023.  | Flutter Developer | **Peak-s-Team** |
 
  
  ### :mailbox_with_mail: Contacts

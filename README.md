@@ -61,19 +61,19 @@
  
 <!-- ### :black_nib: Design Tool I used  -->
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white)<br>
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=Adobe%20Illustrator&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
+<!-- ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)  -->
+<!-- ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)  -->
+<!-- ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white)<br>  -->
+<!-- ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)  -->
+<!-- ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=Adobe%20Illustrator&logoColor=white)  -->
+<!-- ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)  -->
+<!-- ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)  -->
 
-### :hammer_and_wrench: Developing Environment I used
+<!-- ### :hammer_and_wrench: Developing Environment I used  -->
 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white) 
+<!-- ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)  -->
+<!-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)  -->
+<!-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)   -->
 
 ![wonjaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjaeyeon&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonjaeyeon&theme=vue)

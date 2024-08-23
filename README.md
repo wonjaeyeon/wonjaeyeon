@@ -6,7 +6,7 @@
 ### 🔧 Professional Expertise
 
 - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) **Flutter Development**: Expertise in creating fast, beautiful, and natively compiled applications for mobile from a single codebase.
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)**Android App Development**: Proficient in building performance-oriented and user-friendly Android applications.
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) **Android App Development**: Proficient in building performance-oriented and user-friendly Android applications.
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=Spring&logoColor=white) **Spring Boot Development**: Experienced in developing scalable, production-ready applications using Spring Boot with a focus on microservices architecture and scalable enterprise-level solutions.
 - ![Architecture](https://img.shields.io/badge/Software%20Architecture-%23FF6600.svg?style=flat-square&logo=monogram&logoColor=white) **Software Architecture**: Adept at designing robust, modular, and efficient system architectures.
 

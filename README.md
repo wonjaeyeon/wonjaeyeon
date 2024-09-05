@@ -38,7 +38,7 @@
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white&link=https://woncow977.myportfolio.com)](https://woncow977.myportfolio.com)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/JaeYeon-Won-Profile-21a2f080d1134c729476f7d0b0f36f89)](https://www.notion.so/JaeYeon-Won-Profile-21a2f080d1134c729476f7d0b0f36f89)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com)
+<!-- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com)  -->
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@woncow977)](https://velog.io/@woncow977)
 
 ### :books: Programming Language I used
@@ -57,7 +57,9 @@
 
 ### 📑: FrameWorks and Library I used
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+ <!-- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)  -->
+ ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+ ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)
  
 <!-- ### :black_nib: Design Tool I used  -->
 

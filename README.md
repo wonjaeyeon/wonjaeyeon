@@ -5,19 +5,19 @@
 
 ### 🔧 Professional Skills
 
-Android Native/Flutter Mobile Application Development | Analyzing Android Device Log | Spring Boot Server Application Development | Client-Server Architecture Design![image](https://github.com/user-attachments/assets/8f3dfa00-711a-490d-9bf2-0f08f6197579)
+Android Native/Flutter Mobile Application Development | Analyzing Android Device Log | Spring Boot Server Application Development | Client-Server Architecture Design
 
 
 ### 🔧 Tecnical Skills
 
-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) **Flutter Development**: MVVM Architecture | Riverpod | Shared_Preference | DB (SQL: MySQL, No-SQL: Hive) | Syncfusion Library | Navigation(Go_Router) | GitHub Actions CI/CD![image](https://github.com/user-attachments/assets/eb27702f-c3f7-4cc9-ac49-628cf46ede6b)
+- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) **Flutter Development**: MVVM Architecture | Riverpod | Shared_Preference | DB (SQL: MySQL, No-SQL: Hive) | Syncfusion Library | Navigation(Go_Router) | GitHub Actions CI/CD
 
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) **Android App Development**: MVVM Architecture | Jetpack Compose | Coroutine | Background, Foreground Service | Broadcast Receiver | Hilt | Room DB | Retrofit | GitHub Actions CI/CD![image](https://github.com/user-attachments/assets/c4ca8ae9-15bb-4ce0-8b89-eb9369ff9ade)
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) **Android App Development**: MVVM Architecture | Jetpack Compose | Coroutine | Background, Foreground Service | Broadcast Receiver | Hilt | Room DB | Retrofit | GitHub Actions CI/CD
 
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=Spring&logoColor=white) **Spring Boot Development**: Spring MVC Architecture | JPA | DB (SQL: MySQL, PostgreSQL | No-SQL: Mongo DB) | Spring Security (Security Architecture, JWT, OAuth2) | Spring Cloud (Eruka, AWS, RabbitMQ) | Microservice | Serverless | Docker & K8s | GitHub Actions CI/CD |React (Front-end) | Nginx (Web Server)![image](https://github.com/user-attachments/assets/3321c6b8-9962-442e-809e-642524bda923)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=Spring&logoColor=white) **Spring Boot Development**: Spring MVC Architecture | JPA | DB (SQL: MySQL, PostgreSQL | No-SQL: Mongo DB) | Spring Security (Security Architecture, JWT, OAuth2) | Spring Cloud (Eruka, AWS, RabbitMQ) | Microservice | Serverless | Docker & K8s | GitHub Actions CI/CD |React (Front-end) | Nginx (Web Server)
 
 
-- **Others**: Rust Window Application(egui), Python ML Model Training & Deployment![image](https://github.com/user-attachments/assets/fc47e366-89ef-42a2-bfa3-e3633ac30202)
+- **Others**: Rust Window Application(egui), Python ML Model Training & Deployment
 
 
 

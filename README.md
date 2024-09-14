@@ -21,23 +21,22 @@ Android Native/Flutter Mobile Application Development | Analyzing Android Device
 
 
 
-### :bulb: Current Interests
+ <!-- ### :bulb: Current Interests
 - Mobile Application Development(Flutter, Android Jetpack Compose)
 - Building Server with Go
 - Building System with Rust(not yet tried)
 - Semi Supervised Learning for Classification, Detection, Segmentation
 - Generative Model
-- Various ideas (If you have any research or project you want to share with me, please contact me!) 
+- Various ideas (If you have any research or project you want to share with me, please contact me!) -->
  
 
 ### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2017. 3 ~ 2023.  | IT Department, Major in Global Media | **Soongsil University** |
-| **Research activities** | 2019. 6 ~ 2019. 10 | Undergraduate Research Students | **Soongsil Univ. MRLab** |
-| **External activities** | 2021. 12 ~ 2023.4  | CEO of the "servicer"  Management Solution Application | **With My Development Team** |
-| **Occupation** | 2023. 04 ~ 2023.  | Software Engineer | **Teclast Korea** |
+| **:mortar_board: Education** | 2017. 3 ~ 2025. 2  | IT Department, Major in Global Media | **Soongsil University** |
+| **Start-Up** | 2021. 12 ~ 2023.4  | Software Engineer(+ CO-CEO) of the "servicer"  Management Solution Application | **With My Development Team** |
+| **Occupation** | 2023. 4 ~ 2024. 9  | Software Engineer | **Teclast Korea** |
 | **External activities** | 2023. 09 ~ 2023.  | Flutter Developer | **Peak-s-Team** |
 
  
@@ -46,7 +45,7 @@ Android Native/Flutter Mobile Application Development | Analyzing Android Device
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:woncow977@naver.com)](mailto:woncow977@naver.com)
 ### :gem: You can watch my Work in here
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white&link=https://woncow977.myportfolio.com)](https://woncow977.myportfolio.com)
+
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/JaeYeon-Won-Profile-21a2f080d1134c729476f7d0b0f36f89)](https://www.notion.so/JaeYeon-Won-Profile-21a2f080d1134c729476f7d0b0f36f89)
 <!-- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com)  -->
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@woncow977)](https://velog.io/@woncow977)
@@ -71,25 +70,5 @@ Android Native/Flutter Mobile Application Development | Analyzing Android Device
  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
  ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)
  
-<!-- ### :black_nib: Design Tool I used  -->
-
-<!-- ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)  -->
-<!-- ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)  -->
-<!-- ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white)<br>  -->
-<!-- ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)  -->
-<!-- ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=Adobe%20Illustrator&logoColor=white)  -->
-<!-- ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)  -->
-<!-- ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)  -->
-
-<!-- ### :hammer_and_wrench: Developing Environment I used  -->
-
-<!-- ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)  -->
-<!-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)  -->
-<!-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)   -->
-
-![wonjaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjaeyeon&show_icons=true&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonjaeyeon&theme=vue)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjaeyeon&layout=compact)](https://github.com/wonjaeyeon/github-readme-stats)  -->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woncow977)](https://solved.ac/woncow977/)  -->
 </div>
 

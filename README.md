@@ -36,7 +36,7 @@ Android Native/Flutter Mobile Application Development | Analyzing Android Device
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2017. 3 ~ 2025. 2  | IT Department, Major in Global Media | **Soongsil University** |
 | **Start-Up** | 2021. 12 ~ 2023.4  | Software Engineer(+ CO-CEO) of the "servicer"  Management Solution Application | **With My Development Team** |
-| **Occupation** | 2023. 4 ~ 2024. 9  | Software Engineer | **Teclast Korea** |
+| **Occupation** | 2023. 4 ~ 2025.   | Software Engineer | **Teclast Korea** |
 | **External activities** | 2023. 09 ~ 2023.  | Flutter Developer | **Peak-s-Team** |
 
  
